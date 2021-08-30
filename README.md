@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Josepj Joel
+- 👋 Hi, I’m Joseph Joel
 - 👀 I’m interested in Electronics, Robotics and Design
 - 🌱 I’m currently learning Mechatronics Engineering at SRM Institute of Science and Technology
 - 💞️ I’m actively looking for a job full-time or internship in companies that are inclined towards robotics, automation and electronics
