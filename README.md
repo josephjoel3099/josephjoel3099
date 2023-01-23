@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Joel
 - 👀 I’m interested in Electronics, Robotics and Design
-- 🌱 I’m currently learning Mechatronics Engineering at SRM Institute of Science and Technology
+- 🌱 I’m currently learning Robotics & AI at Glasgow University
 - 💞️ I’m actively looking for a job full-time or internship in companies that are inclined towards robotics, automation and electronics
 - 📫 You can reach me through email at josephjoel3099@gmail.com
 
